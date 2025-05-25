@@ -9,18 +9,15 @@ PRUEBA-TECNICA-MEDLINK/
 ├── challenge-01/
 │   ├── README.md
 │   ├── index.php
-│   └── tests/
-│       └── test1.php
 ├── challenge-02/
 │   ├── README.md
 │   ├── index.php
-│   └── tests/
-│       └── test2.php
 ├── challenge-03/
+|   ├──spec/
+|   ├────GildedRose.php
+|   ├────Item.php
 │   ├── README.md
 │   ├── index.php
-│   └── tests/
-│       └── test3.php
 ├── run.sh
 ├── Dockerfile
 └── README.md
